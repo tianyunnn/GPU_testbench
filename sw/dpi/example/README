@@ -1,0 +1,2 @@
+vlog -dpiheader dpiheader.h main.c tb.sv
+vsim -c tb -do "add wave -r /tb/*; run 100"

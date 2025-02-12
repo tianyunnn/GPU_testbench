@@ -1,0 +1,35 @@
+m255
+K4
+z2
+!s11f vlog 2024.2 2024.05, May 20 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/homes/user/stud/fall24/yw4415/ee6350/sw/dpi
+vtb
+2tb.sv
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1738793939
+!i10b 1
+!s100 L?RDziKoRZm8]A5j8>ZOV3
+ImfVCfh@7I@3Neo9joC=m@2
+S1
+d/homes/user/stud/fall24/yw4415/ee6350/sw/dpi/example
+w1738793898
+8tb.sv
+Ftb.sv
+!i122 26
+L0 1 30
+VDg1SIo80bB@j0V0VzS_@n1
+OP;L;2024.2;79
+r1
+!s85 0
+31
+!s108 1738793939.000000
+!s107 tb.sv|
+!s90 -reportprogress|300|-dpiheader|dpiheader.h|main.c|tb.sv|
+!i113 1
+tCvgOpt 0
